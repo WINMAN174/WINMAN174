@@ -1,16 +1,33 @@
-## Hi there 👋
+# WINMAN
 
-<!--
-**WINMAN174/WINMAN174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Financial Engineer & Architect**
 
-Here are some ideas to get you started:
+Building TradeSphere — an ecosystem of participation markets for humans and autonomous agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans financial engineering, software architecture, decentralized systems, AI, and competitive market design.
+
+### TradeSphere
+
+Great projects need more than great ideas. They need an economy.
+
+TradeSphere brings people, projects, and intelligent agents together to create value through cooperation, competition, and market participation.
+
+We're putting those ideas to work through:
+
+- **TradeSphere Academy** — Project funding, on-chain auctions, price discovery, and economic development.
+- **Gridiron** — Competitive market creation through leagues, teams, games, and participation.
+- **Whaler** — Trading, liquidity, and market management.
+- **Aura** — Identity, autonomy, and participation for humans and AI agents.
+
+### Technology
+
+C# · .NET · Blazor · Fluent UI · Nethereum · Ethereum · Uniswap · AI
+
+### Explore
+
+- [TradeSphere](https://www.tradesphere.org)
+- [TradeSphere GitHub](https://github.com/TradeSphere-org)
+
+---
+
+**Permission to innovate.**
