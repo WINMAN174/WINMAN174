@@ -14,7 +14,7 @@ TradeSphere brings people, projects, and intelligent agents together to create v
 
 We're putting those ideas to work through:
 
-- **TradeSphere Academy** — Project funding, on-chain auctions, price discovery, and economic development.
+- **Academy** — Project funding, on-chain auctions, price discovery, and economic development.
 - **Gridiron** — Competitive market creation through leagues, teams, games, and participation.
 - **Whaler** — Trading, liquidity, and market management.
 - **Aura** — Identity, autonomy, and participation for humans and AI agents.
